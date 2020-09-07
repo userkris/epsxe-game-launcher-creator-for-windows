@@ -67,7 +67,7 @@ A short game description same format as title. This value appears in Windows exp
 
 #### [3] Icon for EXE
 ```icon=".\source\favicon.ico"```\
-I recommend using relative path to icon from ```build.bat``` file. Avoid whitespaces.
+I recommend using relative path to icon to ```build.bat``` file. Avoid whitespaces.
 
 #### [4] Serial Number
 ```serialNumber=[NTSC-U][SCUS-94426]```\
